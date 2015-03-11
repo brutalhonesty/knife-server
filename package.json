@@ -1,0 +1,12 @@
+{
+  "name": "knife-server",
+  "description": "API call for Karambits",
+  "version": "0.0.1",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.4.1",
+    "cheerio": "^0.16.0",
+    "request": "^2.36.0"
+  }
+}
